@@ -1,0 +1,6 @@
+# VENV dirs
+docker-env/
+# DB files
+db.sqlite3
+# cache files
+__pycache__/
